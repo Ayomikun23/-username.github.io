@@ -1,0 +1,10 @@
+@font-face {
+               font-family:'SourceSansProBlackRegular';
+               src: url('https://d1csarkz8obe9u.cloudfront.net/fonts/SourceSansProBlackRegular.eot');
+               src: url('https://d1csarkz8obe9u.cloudfront.net/fonts/SourceSansProBlackRegular.eot?#iefix') format('embedded-opentype'),
+               url('https://d1csarkz8obe9u.cloudfront.net/fonts/SourceSansProBlackRegular.woff2') format('woff2'),
+               url('https://d1csarkz8obe9u.cloudfront.net/fonts/SourceSansProBlackRegular.woff') format('woff'),
+               url('https://d1csarkz8obe9u.cloudfront.net/fonts/SourceSansProBlackRegular.ttf') format('truetype');
+               font-weight: normal;
+               font-style: normal;
+            }

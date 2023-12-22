@@ -1,0 +1,10 @@
+@font-face {
+               font-family:'robotoregular_bold';
+               src: url('robotoregular_bold.eot');
+               src: url('robotoregular_bold.eot?#iefix') format('embedded-opentype'),
+               url('robotoregular_bold.woff2') format('woff2'),
+               url('robotoregular_bold.woff') format('woff'),
+               url('robotoregular_bold.ttf') format('truetype');
+               font-weight: normal;
+               font-style: normal;
+            }

@@ -1,0 +1,10 @@
+@font-face {
+               font-family:'ArchivoRegular';
+               src: url('ArchivoRegular.eot');
+               src: url('ArchivoRegular.eot?#iefix') format('embedded-opentype'),
+               url('ArchivoRegular.woff2') format('woff2'),
+               url('ArchivoRegular.woff') format('woff'),
+               url('ArchivoRegular.ttf') format('truetype');
+               font-weight: normal;
+               font-style: normal;
+            }
